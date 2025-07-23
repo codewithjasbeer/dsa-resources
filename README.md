@@ -47,7 +47,9 @@ Whether you're brushing up for your next tech interview or building your problem
 
 All detailed DSA articles with illustrations, flowcharts, and real-life applications will be published here in markdown format.
 
-Check out the [`/articles`](./articles/) folder for topic-wise write-ups.
+Check out the the links below for detailed articles.
+
+<a href="https://codewithjasbeer.substack.com/publish/post/169023002"> Arrays </a>
 
 ---
 
