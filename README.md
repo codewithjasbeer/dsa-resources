@@ -26,7 +26,7 @@ Whether you're brushing up for your next tech interview or building your problem
 
 | ✅ Topic              | 📂 Directory / Article Link         |
 |----------------------|--------------------------------------|
-| Arrays               | [[`/arrays`](https://github.com/codewithjasbeer/Leetcode-Problems-Solved/tree/main/Arrays)   |
+| Arrays               | [[`arrays`](https://github.com/codewithjasbeer/Leetcode-Problems-Solved/tree/main/Arrays)]   |
 | Strings              | [`/strings`](./strings/)             |
 | Hashing              | [`/hashing`](./hashing/)             |
 | Two Pointers         | [`/two-pointers`](./two-pointers/)   |
